@@ -1,0 +1,149 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	text-align: center;
+}
+
+h1{
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-bottom: 15px;
+}
+
+.m{
+	display: inline;
+	color:red;
+	font-style: italic 28px;
+}
+
+#agrupar{
+	width: 98%;   
+	margin: 15px auto;   
+	text-align: left; 
+}
+
+#menu{
+   background: skyblue;  
+   padding: 5px 15px; 
+} 
+
+#menu li{  
+	float: center; 
+	display: inline-block;   
+	list-style: none;   
+	padding: 5px;   
+	font: bold 14px verdana, sans-serif; 
+	color:white;
+} 
+
+img{
+	width: 120px;
+	float: left;
+}
+
+article{
+	display: block;
+}
+
+#seccion{   
+	float: left;   
+	width: 65%;   
+	margin: 10px;
+}
+
+p{
+	text-align: justify;
+	margin-bottom: 10px;
+}
+
+#aside{   
+	float: left;   
+	width: 30%;   
+	margin: 20px 0px;   
+	padding: 20px;   
+} 
+
+.table{
+	border: solid 0.1px;
+	margin-bottom: 10px;
+
+}
+
+.margin{
+	margin-left: 15px;
+}
+
+.boton{
+	margin-left: 15px;
+	margin-bottom: 8px;
+	margin-top: 15px;
+	padding: 3px;
+	font: bold 12px;
+	color:white;
+	background: skyblue;
+}
+
+table{
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+
+.readmore{
+	float: right;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color:white;
+	background:skyblue;
+}
+
+.divnegro{
+	margin-top: 7px;
+	background: black;
+}
+
+.mail{
+	margin-left: 110px;
+}
+
+.p_aside{
+	font: 18px;
+	color:white;
+	text-align: center;
+}
+
+.p_aside2{
+	font: 26px bold verdana;
+	color:white;
+	text-align: center;
+}
+
+.registrarse{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 39px;
+	padding-left: 39px;
+	margin-left: 110px;
+	margin-top: 12px;
+	margin-bottom: 30px;
+}
+
+#label{
+	margin-top: 40px;
+}
+
+.b_label{
+	margin-top: 5px;
+	background: black;
+	color:white;
+	padding: 4px;
+}
+
+.time{
+	font:bold 3px;
+	margin-left: 15px;
+}
